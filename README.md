@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raoufkam Student at PAUL SABATIER 3 TOULOUSE
+- 👋 Hi, I’m @Raoufkam
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning Python
 - 📫 How to reach me : kamicheraouf2001@gmail.com
