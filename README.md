@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raoufkam
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java , C
 - 📫 How to reach me : kamicheraouf2001@gmail.com
 
 <!---
