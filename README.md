@@ -1,5 +1,6 @@
-# ![Raoufkam](giphy.gif)
-
+<p align='center'>
+  <img height="310" alt="gif" src="https://github.com/Raoufkam/Raoufkam/blob/main/giphy.gif?raw=true">
+</p>
 
 ### Salut les amis
 
