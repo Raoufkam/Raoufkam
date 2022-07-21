@@ -14,3 +14,10 @@ Si vous avez tourvé la valeur dans quelque chose que j'ai créé, n'hésiter pa
   <a href="https://www.instagram.com/foufouuu__/"><img height="38" src="https://github.com/Raoufkam/Raoufkam/blob/main/Instagram.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://mobile.twitter.com/raouf64134658"><img height="38" src="https://github.com/Raoufkam/Raoufkam/blob/main/Twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
+
+### Outils et languages de programmations :
+<p align='center'>
+  <img height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</p>
