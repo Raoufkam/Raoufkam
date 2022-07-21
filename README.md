@@ -1,5 +1,5 @@
 <p align='center'>
-  <img height="310" alt="gif" src="https://github.com/Raoufkam/Raoufkam/blob/main/giphy.gif?raw=true">
+  <img height="350" alt="gif" src="https://github.com/Raoufkam/Raoufkam/blob/main/Expo.gif?raw=true">
 </p>
 
 ### Salut les amis 👋
