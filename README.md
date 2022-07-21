@@ -2,7 +2,7 @@
   <img height="310" alt="gif" src="https://github.com/Raoufkam/Raoufkam/blob/main/giphy.gif?raw=true">
 </p>
 
-### Salut les amis
+### Salut les amis 👋
 
 Je suis *Kamiche Mohamed Raouf* , Développeur junior qui cherche à résoudre des problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible .
 
